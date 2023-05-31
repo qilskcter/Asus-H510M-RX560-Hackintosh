@@ -16,21 +16,21 @@
 | ``Chipset``| Intel Tiger Point |   |
 | ``CPU``| Intel Core i5-11400 2.60GHz |  |
 | ``Memory``| 8GB DDR4-2666MHz |  |
-| ``iGPU``| Intel UHD Graphics 730 | Not Supported. |
-| ``dGPU``| AMD Radeon RX 560 4 GB |  |
+| ``iGPU``| Intel UHD Graphics 730 | Not Supported in Hackintosh. |
+| ``dGPU``| AMD Radeon RX 560 4 GB | Native in macOS |
 | ``Disk``| KINGSTON SA400S37120G |  |
 | ``Screen``| 20.0" 1366 x 768 |    |
 | ``Ethernet``| Intel Ethernet Connection (14) I219-V | Use [IntelMausi](https://github.com/acidanthera/IntelMausi). |
-| ``Audio``| Realtek ALC897 | Add `alcid=12` to boot-arg or add layout-id to DeviceProperties. |
+| ``Audio``| Realtek ALC897 |(Not work at this time) Only works with HDMI Audio Output. |
 | ``Keyboard``| - |  |
 
 ## Features
 
 | ``Features``|``Working``| 
 |-------------|-----------|
-| ``Audio``|✅|
+| ``Audio``|⚠️|
 | ``Keyboard``|✅|
-| ``Headphone Jack``|✅|
+| ``Headphone Jack``|❌|
 | ``Graphics``|✅|
 | ``Power Management``|✅|                                                                        
 | ``USB Port``|✅|
