@@ -5,7 +5,7 @@
 | | Version |
 |-|---------|
 | OpenCore | 0.9.2 |
-| macOS | Ventura 13.3.1 |
+| macOS | Sonoma 14.0 |
 
 ![Screenshot](ScreenShot.png)
 
@@ -19,7 +19,7 @@
 | ``iGPU``| Intel UHD Graphics 730 | Not Supported in Hackintosh. |
 | ``dGPU``| AMD Radeon RX 560 4 GB | Native in macOS |
 | ``Disk``| KINGSTON SA400S37120G |  |
-| ``Screen``| 20.0" 1366 x 768 |    |
+| ``Screen``| 23.4" 1920 x 1080 |    |
 | ``Ethernet``| Intel Ethernet Connection (14) I219-V | Use [IntelMausi](https://github.com/acidanthera/IntelMausi). |
 | ``Audio``| Realtek ALC897 |(Not work at this time) Only works with HDMI Audio Output. |
 | ``Keyboard``| - |  |
